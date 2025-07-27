@@ -40,11 +40,24 @@
 
 ---
 
+### Решение 1.
+
+![Решение 1](https://github.com/noisy441/ELK/blob/main/img/img1.png)
+
+---
+
+
 ### Задание 2. Kibana
 
 Установите и запустите Kibana.
 
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
+
+---
+
+### Решение 2.
+
+![Решение 2](https://github.com/noisy441/ELK/blob/main/img/img2.png)
 
 ---
 
@@ -56,11 +69,25 @@
 
 ---
 
+### Решение 3.
+
+![Решение 3](https://github.com/noisy441/ELK/blob/main/img/img3.png)
+
+---
+
 ### Задание 4. Filebeat. 
 
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
+
+---
+
+### Решение 3.
+
+![Решение 4](https://github.com/noisy441/ELK/blob/main/img/img4.png)
+
+---
 
 
 ## Дополнительные задания (со звёздочкой*)
